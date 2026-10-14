@@ -8,8 +8,8 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "U"
-			(at 0 0 0)
+		(property "Reference" "ETH-"
+			(at 4.064 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19,7 +19,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 0)
+			(at -69.85 8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29,7 +29,7 @@
 			)
 		)
 		(property "Footprint" "Project Footprints:Ethernet Keystone"
-			(at 0 2.54 0)
+			(at 0 1.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -40,7 +40,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -69.85 8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -51,7 +51,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -69.85 8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -70,7 +70,7 @@
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 		)

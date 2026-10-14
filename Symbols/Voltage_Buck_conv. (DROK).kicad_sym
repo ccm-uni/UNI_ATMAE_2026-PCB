@@ -9,7 +9,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 8.382 -2.032 0)
+			(at 7.62 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18,8 +18,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "Buck Conv."
+			(at 7.62 -4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29,7 +29,7 @@
 			)
 		)
 		(property "Footprint" "Project Footprints:Voltage Buck conv. (DROK)"
-			(at 2.54 3.302 0)
+			(at 0 1.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

@@ -8,20 +8,20 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "U"
-			(at 10.922 -10.922 0)
+		(property "Reference" "ESP32-"
+			(at 12.7 -6.35 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "ESP32"
+			(at 12.7 -30.48 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29,7 +29,7 @@
 			)
 		)
 		(property "Footprint" "Project Footprints:ESP32_DevBoard"
-			(at 0 0 0)
+			(at 12.7 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
