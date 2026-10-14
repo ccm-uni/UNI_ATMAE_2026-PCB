@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Hand Project_Footprints:DRV8833 Motor Driver_DevBoard"
+		(property "Footprint" "Project Footprints:DRV8833 Motor Driver_DevBoard"
 			(at 11.684 12.954 0)
 			(show_name no)
 			(do_not_autoplace no)

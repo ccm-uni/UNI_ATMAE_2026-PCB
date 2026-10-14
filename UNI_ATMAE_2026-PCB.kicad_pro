@@ -28,8 +28,12 @@
     "equivalence_files": []
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Project Footprints"
+    ],
+    "pinned_symbol_libs": [
+      "Project Symbols"
+    ]
   },
   "meta": {
     "filename": "UNI_ATMAE_2026-PCB.kicad_pro",
@@ -79,7 +83,13 @@
     "bus_aliases": {},
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
-    "top_level_sheets": []
+    "top_level_sheets": [
+      {
+        "filename": "UNI_ATMAE_2026-PCB.kicad_sch",
+        "name": "UNI_ATMAE_2026-PCB",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
   },
   "sheets": [],
   "text_variables": {},

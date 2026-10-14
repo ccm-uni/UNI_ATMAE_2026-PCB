@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Hand Project_Footprints:Ethernet Keystone"
+		(property "Footprint" "Project Footprints:Ethernet Keystone"
 			(at 0 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)

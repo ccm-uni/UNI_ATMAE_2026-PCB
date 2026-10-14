@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Hand Project_Footprints:USB-C Trigger Board"
+		(property "Footprint" "Project Footprints:USB-C Trigger Board"
 			(at 0.254 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
