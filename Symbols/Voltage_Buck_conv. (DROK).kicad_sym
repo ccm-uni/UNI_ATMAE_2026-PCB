@@ -11,7 +11,7 @@
 		(property "Reference" "U"
 			(at 7.62 -2.54 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21,7 +21,7 @@
 		(property "Value" "Buck Conv."
 			(at 7.62 -4.572 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
